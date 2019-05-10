@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <project path="device/samsung/starlte" name="android_device_samsung_starlte" remote="zero" />
+    <project path="device/samsung/star-common" name="android_device_samsung_star-common" remote="zero" />
+
+    <project path="hardware/samsung" name="android_hardware_samsung" remote="zero" />
+
+    <project path="kernel/samsung/starlte" name="starlte_kernel" remote="zero" />
+
+    <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="them" revision="lineage-16.0" />
+</manifest>
