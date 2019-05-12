@@ -1,5 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+    
+      <remote name="zero"
+          fetch="https://github.com/zerorax"
+          revision="halium-16.0" />
+    
+      <remote name="lineage"
+          fetch="https://github.com/LineageOS" />
+    
     <project path="device/samsung/starlte" name="android_device_samsung_starlte" remote="zero" />
     <project path="device/samsung/star-common" name="android_device_samsung_star-common" remote="zero" />
 
